@@ -1,3 +1,6 @@
+import os, sys
+sys.path.append(os.getcwd())
+
 import argparse
 import os.path as osp
 import random
